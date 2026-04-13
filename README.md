@@ -226,11 +226,9 @@ The project was trained and tested successfully.
 ---
 
 ## Images / Screenshots Section
-### Final Images Section for README
 
-Use this exactly:
 
-```markdown
+markdown
 ## Project Screenshots
 
 ### Terminal Output
@@ -244,7 +242,6 @@ Use this exactly:
 
 ### Folder Structure
 ![Folder Structure](images/folder_structure.png)
-```
 
 ---
 
